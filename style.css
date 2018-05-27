@@ -1,0 +1,69 @@
+.container {
+    width: 1300px;
+    height: 1000px;
+    background: black;
+}
+.left {
+    width: 25%;
+    height: 800px;
+    background: blue;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
+.Right {
+    width: 75%;
+    height: 800px;
+    background: red;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
+.p1 {
+    width: 100%;
+    height: 100px;
+    background: black;
+	color: white;
+	text-align: center;
+	font-size: 50px
+}
+
+.p2 {
+    width: 100%;
+    height: 300px;
+    background: saddlebrown;
+	text-align: center;
+	font-size: 50px
+}
+.r1 {
+    width: 50%;
+    height: 300px;
+    background: white;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
+.r2 {
+    width: 50%;
+    height: 300px;
+    background: magenta;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
+.p3 {
+    width: 100%;
+    height: 400px;
+    background: #26dc4d;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
+.footer {
+    width: 100%;
+    height: 200px;
+    background: #303c37;
+    float: left;
+	text-align: center;
+	font-size: 50px
+}
